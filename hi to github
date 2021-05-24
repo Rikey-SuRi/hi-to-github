@@ -1,0 +1,8 @@
+#include<stdio.h>
+
+int main()
+{
+	printf("Hi To GitHub");
+	
+	return 0;
+}
